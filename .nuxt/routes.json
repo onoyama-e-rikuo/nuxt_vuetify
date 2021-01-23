@@ -1,0 +1,16 @@
+[
+  {
+    "name": "vuetify-test",
+    "path": "/vuetify-test",
+    "component": "/Users/eva/nuxt/ts_vuetify/pages/vuetify-test.vue",
+    "chunkName": "pages/vuetify-test",
+    "_name": "_5d6bc468"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/eva/nuxt/ts_vuetify/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5ca1236b"
+  }
+]
